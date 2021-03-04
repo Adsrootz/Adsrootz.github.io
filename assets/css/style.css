@@ -50,7 +50,7 @@ h1, h2, h3, h4, h5, h6 {
   color: #fff;
 }
 
-@media (max-width: 768px) {
+@media (max-width: 900px) {
   .back-to-top {
     bottom: 15px;
   }
